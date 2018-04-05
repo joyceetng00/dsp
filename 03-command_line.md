@@ -16,7 +16,7 @@ Here's a list of items with which you should be familiar:
 * deleting a file . rm filename
 * renaming a file . mv "old location" "new location"
 * listing hidden files . ls -a
-* copying a file from one directory to another
+* copying a file from one directory to another . cp source destination
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
@@ -27,14 +27,13 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 
 What do the following commands do:  
 `ls`  lists contents of current directory
-`ls -a`  
-`ls -l`  
-`ls -lh`  
-`ls -lah`  
-`ls -t`  
+`ls -a`  displays all files
+`ls -l`  displays long format listing
+`ls -lh`  lists files with human readable format
+`ls -lah`  list files with their data formats
+`ls -t`  orders files and directories by the time they were last modified
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
