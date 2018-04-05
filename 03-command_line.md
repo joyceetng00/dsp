@@ -9,25 +9,24 @@ Please follow and complete the free online [Bash Scripting Tutorial](https://rya
 ### Q1.  Cheat Sheet of Commands  
 
 Here's a list of items with which you should be familiar:  
-* show current working directory path
-* creating a directory
-* deleting a directory
-* creating a file using `touch` command
-* deleting a file
-* renaming a file
-* listing hidden files
+* show current working directory path . pwd
+* creating a directory . mkdir "name"
+* deleting a directory . rmdir directoryname
+* creating a file using `touch` command . touch filename
+* deleting a file . rm filename
+* renaming a file . mv "old location" "new location"
+* listing hidden files . ls -a
 * copying a file from one directory to another
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+> > 
 ---
 
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-`ls`  
+`ls`  lists contents of current directory
 `ls -a`  
 `ls -l`  
 `ls -lh`  
