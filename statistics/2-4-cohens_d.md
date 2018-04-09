@@ -1,5 +1,5 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
-
+```
 import thinkstats2
 import thinkplot
 import nsfg
@@ -30,5 +30,5 @@ print('First Child Mean Weight (lb): ', fm)
 print('Other Children Mean Weight (lb): ', om)
 print('Cohen Effect Size: ', wgtco)
 print('The effect size on weight is %.3f times that of on pregnancy length.' % effectmag)
-
+```
 The calculated Cohen effect size is 0.089. The effect size on weight of first-borns is 0.081 times that of non-first born children. The mean weight of first-borns is 7.2lbs, compared to the weight of other children at 7.32lbs. 
